@@ -8,7 +8,7 @@ header {
     color: white;
 }
 
-.cabecalho-imagem{
+.cabecalho-imagem {
     width: 20%;
     }
 
@@ -19,7 +19,7 @@ header {
         justify-content: space-around;
         }
         
-        .cabecalho-lista-item{
+        .cabecalho-lista-item {
             display: inline-block;
             margin: 0 16px;
             }
